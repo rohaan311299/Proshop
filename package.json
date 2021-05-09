@@ -1,0 +1,23 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohaan311299/Proshop.git"
+  },
+  "keywords": [],
+  "author": "Rohan Kacheria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohaan311299/Proshop/issues"
+  },
+  "homepage": "https://github.com/rohaan311299/Proshop#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
